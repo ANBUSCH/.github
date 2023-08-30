@@ -6,7 +6,7 @@
 </div>
 
 
-[Learn more]() about the issue.
+[Learn more](https://www.youtube.com/watch?v=anEykhlBd-Q&list=PLCPB2VbYbLG1gBDKObjjCpX4vaK-5hRVb&t=828) about the issue.
 
 
 
