@@ -8,14 +8,7 @@
 
 > miscellaneous
 
-<img width=700 src="https://github.com/su77ungr/su77ungr/assets/69374354/7a32e3ae-1757-48fa-bc7b-af27a6c130cf">
-
-
-
 [Browse](https://github.com/casalioy) our technical work to this day.
-
-
-[Supporting](https://buymeacoffee.com/CASALIOY) is warmly appreciated.
 
 
 <br>
