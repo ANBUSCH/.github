@@ -3,7 +3,8 @@
 
 <div align="center"> 
   
-<img width=250 src="https://github.com/user-attachments/assets/11e87824-5ce7-40b7-ba04-6ebf89af07ae"></img>
+<img width=250 src="https://github.com/user-attachments/assets/07d72a92-33e9-4de8-8cb1-45be0e0a51b2"></img>
+
 
 
 ###### Shining a light on algorithmic and semantic persuasion.
