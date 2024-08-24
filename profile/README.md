@@ -24,10 +24,8 @@
 
 <details>
     <summary>
-       progress
+       tbd
     </summary>
    
-  ![IMG_5354](https://github.com/Casalioy/.github/assets/69374354/224a2b71-5c7f-4743-a40d-8f1cace3ecf8)
-  
 </details>
 
