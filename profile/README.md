@@ -3,8 +3,10 @@
 
 <div align="center"> 
   
-<img width=250 src="https://github.com/user-attachments/assets/d52da4a8-2ee8-4b05-a4bc-810c44307565"></img>
-###### Shining a light on the effect of algorithmic and semantic persuasion ~
+<img width=250 src="https://github.com/user-attachments/assets/11e87824-5ce7-40b7-ba04-6ebf89af07ae"></img>
+
+
+###### Shining a light on algorithmic and semantic persuasion.
 
 
 </div>
@@ -19,13 +21,3 @@
 
 
 <br>
-
-
-
-<details>
-    <summary>
-       tbd
-    </summary>
-   
-</details>
-
