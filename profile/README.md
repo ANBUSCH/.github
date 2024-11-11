@@ -6,7 +6,7 @@
 <img width=250 src="https://github.com/user-attachments/assets/2ede3110-a5c7-4f5a-8439-2f7e37b8a0b9"></img>
 
 
-###### Let's add humane technology.
+###### As change brings joy.
 
 
 
