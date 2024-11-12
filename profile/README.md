@@ -11,7 +11,7 @@
 
 > The local llm prototype and toolkit [Casali0y ](https://github.com/su77ungr/casalioy)
 
-> Data labeling integrates with [Torli0y ](https://github.com/) at cutting speed
+> Rethought data labeling with [Torli0y ](https://github.com/) at cutting speed
 
 > Change Poses Joy
 
