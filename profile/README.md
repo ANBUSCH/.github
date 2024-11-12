@@ -8,11 +8,7 @@
 <div align="left"> 
 <br>
   
->>>>>>>>>>>>>>>>>>>>>>>> responsive data
-
->>>>>>> [Torli0y ](https://github.com/)
-
->>>>>>> [Casali0y ](https://github.com/su77ungr/casalioy)
+>>>>>>>>>>>>>>>>>>>>>>>> responsive data labeling with [Torli0y ](https://github.com/)
 
 
 </div>
