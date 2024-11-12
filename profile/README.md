@@ -1,17 +1,18 @@
 
 <div align="center">
 
-<div align="center"> 
+<div align="left"> 
   
-<img width=250 src="https://github.com/user-attachments/assets/4465c646-5a97-49fe-87e2-5855cf4df98c"></img>
+<img width=125 src="https://github.com/user-attachments/assets/ac9e8d63-721d-47a2-804d-8777838360b2"></img>
 
-<div align="right"> 
+<div align="left"> 
 
-> [ Visit](https://github.com/casalioy) technical publications
+>>>>>>>>>>>>>>>>>>>>>>>> responsive data
 
-> The local llm prototype and toolkit [Casali0y ](https://github.com/su77ungr/casalioy)
+>>>>>>> [Torli0y ](https://github.com/)
 
-> Rethought real-time data labeling with [Torli0y ](https://github.com/)
+>>>>>>> [Casali0y ](https://github.com/su77ungr/casalioy)
+
 
 </div>
 
