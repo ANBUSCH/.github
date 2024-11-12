@@ -3,7 +3,7 @@
 
 <div align="center"> 
   
-<img width=250 src="https://github.com/user-attachments/assets/2ede3110-a5c7-4f5a-8439-2f7e37b8a0b9"></img>
+<img width=250 src="https://github.com/user-attachments/assets/244e5ae2-92bb-40e5-9d84-2ce709da2d81"></img>
 
 
 ##### as change brings joy
@@ -12,6 +12,7 @@
 
 </div>
 <br><br><br>
+
 
 
 > [Visit](https://github.com/casalioy) technical publications.
