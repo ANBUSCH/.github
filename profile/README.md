@@ -9,12 +9,11 @@
 
 > [ Visit](https://github.com/casalioy) technical publications
 
-> [ Try](https://github.com/su77ungr/casalioy) a local lllm instance with Casali0y
+> The local llm prototype and toolkit [Casali0y ](https://github.com/su77ungr/casalioy)
 
+> Data labeling integrates with [Torli0y ](https://github.com/) at cutting speed
 
-> [ Tristan Harris'](https://www.youtube.com/watch?v=anEykhlBd-Q&list=PLCPB2VbYbLG1gBDKObjjCpX4vaK-5hRVb&t=828) presentation on the Stanford Seminar
-
-> With Change Comes Joy
+> Change Poses Joy
 
 </div>
 
