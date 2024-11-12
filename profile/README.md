@@ -13,8 +13,6 @@
 
 > Rethought real-time data labeling with [Torli0y ](https://github.com/)
 
-> Change Poses Joy
-
 </div>
 
 </div>
