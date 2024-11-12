@@ -42,9 +42,7 @@
 
 <div align="center"> 
 <br>
-  
-responsive data labeling runs on [Torli0y ](http://142.93.132.7:8080/image)
- 
+
 
 </div>
 
