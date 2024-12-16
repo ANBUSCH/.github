@@ -13,6 +13,11 @@
   
 
 
+efforts in slow communication. bit by bit. 
+
+- [Reviving Nokia 5110 ](https://opsbros.com/nokia-5110-back-from-the-dead/)
+
+
 <div align="center"> 
 <br>
 
