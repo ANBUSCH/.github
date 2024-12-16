@@ -19,7 +19,7 @@
 
 [[ /INFORMATION: Bayesian Persuasion and Game Theory ]](https://arxiv.org/pdf/2408.13822)
 
-[[ /ORIGINALCONTENT: Age Sero - Art piece on vertical Displays (2022) ]](https://www.reddit.com/r/raspberry_pi/comments/q6xd7p/i_made_samsungs_rotating_tv_at_my_own/)
+[[ /ORIGINALCONTENT: Age Sero 세로 - Art piece on vertical Displays (2022) ]](https://www.reddit.com/r/raspberry_pi/comments/q6xd7p/i_made_samsungs_rotating_tv_at_my_own/)
 
 
 
