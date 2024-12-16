@@ -13,11 +13,11 @@
 <br><br><br>
 
 
-[[ !HARDWARE: Reviving Nokia 5110 ]](https://opsbros.com/nokia-5110-back-from-the-dead/)
+[[ /HARDWARE: Reviving Nokia 5110 ]](https://opsbros.com/nokia-5110-back-from-the-dead/)
 
-[[ !KNOWLEGE: Stanford Seminar - Time Well Spent, Tristan Harris ]](https://www.youtube.com/watch?v=anEykhlBd-Q&t=828s)
+[[ /INFORMATION: Stanford Seminar - Time Well Spent, Tristan Harris ]](https://www.youtube.com/watch?v=anEykhlBd-Q&t=828s)
 
-[[ !GOAL: Reduce technological persuasion bit by bit ]]()
+[[ /INFORMATION: Bayessian Persuasion and Game Theory ]](https://arxiv.org/pdf/2408.13822)
 
 
 
