@@ -1,10 +1,12 @@
 ## Changelog
 
-### Update Dec 29th 2024
+##### Update Dec 29, 2024
 - **Added Design Repository**: [CC_Design](https://github.com/Casalioy/CC_Design)
-
-### Update August 6th 2023
+- **Updated public facing README**
+##### Update Oct 6, 2023
 - **Added Recommended Readings**: [Recommended Readings](#recommended-readings)
+##### Update Aug 30, 2023
+- **Created Public Organization**: [Recommended Readings](#recommended-readings)
 
 ---
 
