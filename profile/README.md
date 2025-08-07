@@ -1,24 +1,13 @@
 ## Changelog
 
-##### Update Dec 29, 2024
-- **Added Design Repository**: [CC_Design](https://github.com/Casalioy/CC_Design)
-- **Updated public facing README**
+
+##### Update August, 7 2025
+- **Incorporated:** <a href="https://www.anbusch.de"> ANBUSCH | Legal Tech Lab München </a>
+
 ##### Update Oct 6, 2023
 - **Added Recommended Readings**: [Recommended Readings](#recommended-readings)
 ##### Update Aug 30, 2023
 - **Created Public Organization**: [Recommended Readings](#recommended-readings)
-
----
-
-## Logo Gallery
-
-### Different Subsets of Casalioy Collective Logos
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/a1d12015-1ea7-47a9-ab02-eb8f2801fef7" width="177">
-    <img src="https://github.com/user-attachments/assets/83110212-b0fa-4ae4-95f0-c4f33dc0372a" width="177" style="display:inline-block; margin-right:10px;">
-    <img src="https://github.com/user-attachments/assets/55775963-fccc-4467-87ec-c72b06f64ba6" width="177" style="display:inline-block; margin-right:10px;">
-</div>
 
 ---
 
