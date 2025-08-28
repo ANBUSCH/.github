@@ -1,17 +1,4 @@
-## Changelog
-
-
-##### Update August, 7 2025
-- **Incorporated:** <a href="https://www.anbusch.de"> ANBUSCH | Legal Tech Lab München </a>
-
-##### Update Oct 6, 2023
-- **Added Recommended Readings**: [Recommended Readings](#recommended-readings)
-##### Update Aug 30, 2023
-- **Created Public Organization**: [Recommended Readings](#recommended-readings)
-
----
-
-## Recommended Readings
+### Recommended Readings
 
 - **[Stanford Seminar - Time Well Spent, Tristan Harris](https://www.youtube.com/watch?v=anEykhlBd-Q&t=828s)**
   
